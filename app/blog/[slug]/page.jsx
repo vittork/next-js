@@ -1,5 +1,5 @@
 import Heading from "@/components/Heading";
-import ShareLinkButton from "@/compongigents/Sharelinkbutton";
+import ShareLinkButton from "@/components/Sharelinkbutton";
 import { getPost, getSlugs } from "@/lib/post";
 
 //supaya semua turunan folder slug ikut ke buildnpm
